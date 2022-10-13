@@ -1,5 +1,6 @@
 # Web-Development
 Technical Basic Web Development
-###Membuat tampilan halaman Halaman Profil dengan layout
-###Pembuatan Halaman Profile Basic
-###Pembuatan Halaman Form Menggunakan Bootstrap
+1. Pembuatan Halaman Profile Basic
+2. Pembuatan Style Halaman Profile Basic Menggunakan CSS
+3. Pembuatan Halaman Form Menggunakan Bootstrap
+4. Menghubungkan Halaman Web
