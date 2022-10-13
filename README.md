@@ -1,4 +1,4 @@
-# Basic Web-Development
+# Web-Development
 Self Learning :
 Membuat tampilan halaman Halaman Profil dengan layout
 1. Pembuatan Halaman Profile Basic
